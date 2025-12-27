@@ -1,0 +1,3 @@
+To view the code of the project open the Objects folder, then you'll see many files. Open any of them, Ignore the document that has the same name as the folder it's in and instead open any other document with a tool like note pad.
+
+Also unless you have the software Game Maker you will be unable to run the program to test out the functionality of the code. So instead open the folder that's listed Logs and watch the videos I made showing off the features.
